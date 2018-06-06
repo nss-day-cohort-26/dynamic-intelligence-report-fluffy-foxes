@@ -1,2 +1,3 @@
 intelReport = {}
 
+console.log(intelReport)
