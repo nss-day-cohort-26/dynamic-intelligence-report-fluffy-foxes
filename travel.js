@@ -27,4 +27,4 @@ const travel = [
 }
 ]
 
-intelReport.push("travel")
+intelReport.push(travel)
