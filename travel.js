@@ -30,3 +30,4 @@ const travel = []
 
 
 travel.push(title,imgTravel,airports,busStations,citiesVisited,rentalCompanies)
+intelReport.push(travel)
