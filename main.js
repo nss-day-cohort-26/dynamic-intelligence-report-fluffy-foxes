@@ -1,3 +1,3 @@
-intelReport = {}
+const intelReport = {}
 
 console.log(intelReport)
