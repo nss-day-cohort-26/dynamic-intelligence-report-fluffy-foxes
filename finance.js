@@ -1,10 +1,10 @@
 const finance = []
 
 const title = {
-    h3: "Fiancial Interests"
+    h3: "Financial Interests"
 }
 const financeImg = {
-    img: ""
+    img: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/03/09/15/Wheres-Wally.jpg?w968h681"
 }
 
 const banks = {
@@ -23,7 +23,9 @@ const blackmail = {
     person4: "White Wizard"
 }
 const shellBusiness = {
-    fakebusiness1: "Waldo's Information Security and Threat Protection"
+    fakebusiness1: "Waldo's Information Security and Threat Protection",
+    fakebusiness2: "Nashville Software School",
+    fakebusiness3: "Bird"
 }
-finance.push(title, banks, business, blackmail, shellBusiness)
+finance.push(title, financeImg, banks, business, blackmail, shellBusiness)
 intelReport.push(finance)
