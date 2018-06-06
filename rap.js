@@ -15,6 +15,4 @@ const ulRap = {
 }
 
 rapSheet.push(h3Rap, imgRap, ulRap)
-
-rapSheet.push(h3Rap, imgRap, ulRap)
 intelReport.rapSheetKey = rapSheet
