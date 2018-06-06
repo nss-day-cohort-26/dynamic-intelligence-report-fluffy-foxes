@@ -1,6 +1,6 @@
 const finance = []
 
-const title = {
+const travelTitle = {
     h3: "Financial Interests"
 }
 const financeImg = {
@@ -28,4 +28,4 @@ const shellBusiness = {
     fakebusiness3: "Bird"
 }
 finance.push(title, financeImg, banks, business, blackmail, shellBusiness)
-intelReport.push(finance)
+intelReport.financeKey = finance

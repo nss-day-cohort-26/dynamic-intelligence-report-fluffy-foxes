@@ -33,4 +33,4 @@ const knownAssociates = {
 
 exectutiveSummary.push(h3ES, pictureOfWaldo, nameofPerp,countryOrigin, listOfAlias, knownAssociates)
 
-intelReport.push(exectutiveSummary)
+intelReport.exectutiveSummaryKey = exectutiveSummary

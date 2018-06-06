@@ -60,7 +60,7 @@ const event5 = {
 }
 
 recentNews.push(newsImg, event1, event2, event3, event4, event5)
-intelReport.push(recentNews)
+intelReport.recentNewsKey = recentNews
 
 
 
