@@ -8,20 +8,60 @@ const recentNews = [
 
     },
 
-    eventsConnected = {
+    event1 = {
         date: "May 21st 2018",
         location: "Nashville TN.",
         typeOfEvents: " A new sighting!",
         victims: "Fred Bergins",
         witnesses: "Billy Bardy",
-        agency: "TBI"
+        agency: "TBI",
+        rating: "100%"
+
+    },
+    event2 = {
+        date: "September 17, 2018",
+        location: "Nashville TN.",
+        typeOfEvents: " A new sighting!",
+        victims: "Fred Bergins",
+        witnesses: "Billy Bardy",
+        agency: "TBI",
+        rating: "100%"
+
+    },
+    event3 = {
+        date: "August 25, 2017",
+        location: "Nashville TN.",
+        typeOfEvents: " A new sighting!",
+        victims: "Fred Bergins",
+        witnesses: "Billy Bardy",
+        agency: "TBI",
+        rating: "100%"
+
+    },
+    event4 = {
+        date: "May 11, 2016",
+        location: "Nashville TN.",
+        typeOfEvents: " A new sighting!",
+        victims: "Fred Bergins",
+        witnesses: "Billy Bardy",
+        agency: "TBI",
+        rating: "100%"
+
+    },
+    event5 = {
+        date: "June 11, 2014",
+        location: "Nashville TN.",
+        typeOfEvents: " A new sighting!",
+        victims: "Fred Bergins",
+        witnesses: "Billy Bardy",
+        agency: "TBI",
+        rating: "100%"
 
     }
-
-
 ]
-
+console.log(recentNews)
 intelReport.push(recentNews)
+
 
 
 // console.log(recentNews)
