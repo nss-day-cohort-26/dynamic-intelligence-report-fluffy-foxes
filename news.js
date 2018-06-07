@@ -9,33 +9,33 @@ const newsImg = {
 }
 
 const event1 = {
-    Date: "May 21st 2018",
-    Location: "Nashville TN.",
-    Type: " A new sighting!",
-    Victims: "Fred Bergins",
-    Witnesses: "Billy Bardy",
-    Agency: "TBI",
-    Rating: "100%"
+    Date: "Date: May 21st 2018",
+    Location: "Location: Nashville TN.",
+    Type: "Type: A new sighting!",
+    Victims: "Victim: Fred Bergins",
+    Witnesses: "Witness: Billy Bardy",
+    Agency: "Agency: TBI",
+    Rating: "Rating: 100%"
 
 }
 const event2 = {
-    Date: "September 17, 2018",
-    Location: "Nashville TN.",
-    Type_Of_Events: " A new sighting!",
-    Victims: "Fred Bergins",
-    Witnesses: "Billy Bardy",
-    Agency: "TBI",
-    Rating: "100%"
+    Date: "Date: September 17, 2018",
+    Location: "Location: Nashville TN.",
+    Type_Of_Events: "Type: A new sighting!",
+    Victims: "Victim: Fred Bergins",
+    Witnesses: "Witness: Billy Bardy",
+    Agency: "Acency: TBI",
+    Rating: "Rating: 100%"
 
 }
 const event3 = {
-    Date: "August 25, 2017",
-    Location: "Nashville TN.",
-    Type_Of_Events: " A new sighting!",
-    Victims: "Steve Flemming",
-    Witnesses: "Stevie Nicks",
-    Agency: "TBI",
-    Rating: "100%"
+    Date: "Date: August 25, 2017",
+    Location: "Location: Nashville TN.",
+    Type_Of_Events: "Type: A new sighting!",
+    Victims: "Victim: Steve Flemming",
+    Witnesses: "Witness: Stevie Nicks",
+    Agency: "Agency: TBI",
+    Rating: "Rating: 100%"
 
 }
 
