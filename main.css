@@ -9,6 +9,7 @@ body {
     background-color: rgba(255, 255, 255, 0.9);
     margin: 0 250px 0 250px;
     border: 3px solid red;
+    border-radius: 10px; /* Rounded corners */
 
     /* text-align: center; */
 }
@@ -19,24 +20,23 @@ nav {
     color: white;
     font-size: 1.5em;
     font-family: bookman, sans-serif;
-    
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 30px;
 
 }
 
-li {
+p {
     background-color: rgba(255, 0, 0, 0.9);
     display:inline;
     padding: 10px;
     margin: 30px auto;
     border: 3px solid white;
+    border-radius: 10px; /* Rounded corners */
     
 }
 
-ul {
-    margin: 0 auto;
-    text-align: center;
-    padding-top: 30px;
-}
+
 
 a:link, a:visited {
     text-decoration: none;
@@ -79,6 +79,6 @@ div {
     font-size: 18px; /* Increase font size */
 }
 
-#myBtn:hover {
+#myBtn:hover, p:hover {
     background-color: #555; /* Add a dark-grey background on hover */
 }
