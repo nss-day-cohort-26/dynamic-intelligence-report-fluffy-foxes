@@ -8,24 +8,24 @@ const financeImg = {
 }
 
 const banks = {
-    Bank_1: "Imperial Bank",
-    Bank_2: "Pierce & Pierce Mergers and Acquisitions",
-    Bank_3: "Gringotts"
+    Bank_1: "First Bank: Imperial Bank",
+    Bank_2: "Second Bank: Pierce & Pierce Mergers and Acquisitions",
+    Bank_3: "Third Bank: Gringotts"
 }
 const business = {
     Business_1: "Waldo's Cameo",
     Business_2: "Waldo's Beanies"
 }
 const blackmail = {
-    Blackmailed_1: "Sundar Pichai",
-    Blackmailed_2: "Mark Zuckerberg",
-    Blackmailed_3: "Odlaw",
-    Blackmailed_4: "White Wizard"
+    Blackmailed_1: "Blackmail Victim: Sundar Pichai",
+    Blackmailed_2: "Blackmail Victim: Mark Zuckerberg",
+    Blackmailed_3: "Blackmail Victim: Odlaw",
+    Blackmailed_4: "Blackmail Victim: White Wizard"
 }
 const shellBusiness = {
-    Fakebusiness_1: "Waldo's Information Security and Threat Protection",
-    Fakebusiness_2: "Nashville Software School",
-    Fakebusiness_3: "Bird"
+    Fakebusiness_1: "Known Business Front: Waldo's Information Security and Threat Protection",
+    Fakebusiness_2: "Known Business Front: Nashville Software School",
+    Fakebusiness_3: "Known Business Front: Bird"
 }
 finance.push(travelTitle, financeImg, banks, business, blackmail, shellBusiness)
 intelReport.financeKey = finance
