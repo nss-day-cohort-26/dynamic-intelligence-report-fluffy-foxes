@@ -25,9 +25,9 @@ const listOfAlias = {
 }
 
 const knownAssociates = {
-    ass1: 'Sir, Eye-Spy',
-    ass2: 'Finders Keepers',
-    ass3: 'Lost and Found'
+    associate1: 'Sir, Eye-Spy',
+    associate2: 'Finders Keepers',
+    associate3: 'Lost and Found'
 
 }
 
