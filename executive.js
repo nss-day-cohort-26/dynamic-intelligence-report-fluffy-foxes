@@ -5,7 +5,7 @@ const h3ES = {
 }
 
 const pictureOfWaldo = {
-    img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9VBCDTHRdECMdZ8A-tUQD-6_dFozIyh6HOowF1Fq_fAYDQAHB'
+    img: 'http://i0.kym-cdn.com/photos/images/original/000/628/003/8b4.jpg'
 
 }
 

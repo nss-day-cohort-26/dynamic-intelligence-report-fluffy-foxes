@@ -5,7 +5,7 @@ const travel = []
     }
     
     const imgTravel = {
-        img: "https://pmcdeadline2.files.wordpress.com/2016/03/wheres-waldo.jpg?w=446&h=299&crop=1"
+        img: "https://kotaksuratriza.files.wordpress.com/2012/06/wally.jpg"
     }     
      const airports = {
         airport1: "Orlando International Airport",
