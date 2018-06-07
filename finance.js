@@ -27,5 +27,5 @@ const shellBusiness = {
     fakebusiness2: "Nashville Software School",
     fakebusiness3: "Bird"
 }
-finance.push(title, financeImg, banks, business, blackmail, shellBusiness)
+finance.push(travelTitle, financeImg, banks, business, blackmail, shellBusiness)
 intelReport.financeKey = finance
