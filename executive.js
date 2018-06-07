@@ -1,11 +1,11 @@
 const exectutiveSummary = []
 
 const h3ES = {
-    titleES: "Executive Summary"
+    h3: "Executive Summary"
 }
 
 const pictureOfWaldo = {
-    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9VBCDTHRdECMdZ8A-tUQD-6_dFozIyh6HOowF1Fq_fAYDQAHB'
+    img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9VBCDTHRdECMdZ8A-tUQD-6_dFozIyh6HOowF1Fq_fAYDQAHB'
 
 }
 
