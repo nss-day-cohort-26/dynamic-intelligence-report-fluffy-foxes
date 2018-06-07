@@ -8,11 +8,11 @@ const imgRap = {
     img: "http://static-0.gogamz.com/games/java/1/72/game-2/1-wheres-wally-now.webp"
 }
 const ulRap = {
-    crimes: "Loitering",
-    convictions: "Running from scene of the crime",
-    persons: "Grandma, Uncle Henry",
-    witnesses: "Thousands of people",
-    victims: "Carmen SanDiego"
+    Crimes: "Loitering",
+    Convictions: "Running from scene of the crime",
+    Persons: "Grandma, Uncle Henry",
+    Witnesses: "Thousands of people",
+    Victims: "Carmen SanDiego"
 }
 
 rapSheet.push(h3Rap, imgRap, ulRap)

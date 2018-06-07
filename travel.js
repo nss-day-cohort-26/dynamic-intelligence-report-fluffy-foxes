@@ -8,24 +8,24 @@ const travel = []
         img: "https://kotaksuratriza.files.wordpress.com/2012/06/wally.jpg"
     }     
      const airports = {
-        airport1: "Orlando International Airport",
-        airport2: "San Francisco International Airport",
-        airport3: "Louis Armstrong New Orleans International Airport",
+        Airport_1: "Orlando International Airport",
+        Airport2: "San Francisco International Airport",
+        Airport3: "Louis Armstrong New Orleans International Airport",
     }
      const busStations = {
-        busstation1: "Orlando Greyhound Bus Station",
-        busstation2: "Transbay Transit Center",
-        busstation3: "Gretna Bus Terminal",
+        Busstation_1: "Orlando Greyhound Bus Station",
+        Busstation_2: "Transbay Transit Center",
+        Busstation_3: "Gretna Bus Terminal",
     }
      const citiesVisited = {
-        city1: "Orlando",
-        city2: "San Francisco",
-        city3: "New Orleans"
+        City_1: "Orlando",
+        City_2: "San Francisco",
+        City_3: "New Orleans"
     }
     const rentalCompanies = {
-        rental1: "Enterprise Rent-A-Car",
-        rental2: "The San Francisco Sailing Company",
-        rental3: "Orlando Rentals Property Management Co. LLC"
+        Rental_1: "Enterprise Rent-A-Car",
+        Rental_2: "The San Francisco Sailing Company",
+        Rental_3: "Orlando Rentals Property Management Co. LLC"
 }
 
 
