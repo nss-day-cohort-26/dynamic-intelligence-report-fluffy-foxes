@@ -13,21 +13,21 @@ const nameofPerp = {
     name: 'Waldo Walderson'
 }
 const countryOrigin = {
-    country: 'France'
+    Country: 'France'
 
 }
 
 const listOfAlias = {
-    alias1: 'Red Bandit',
-    alias2: 'Stripes',
-    alias3: 'Beanie Boy'
+    Alias_1: 'Red Bandit',
+    Alias_2: 'Stripes',
+    Alias_3: 'Beanie Boy'
 
 }
 
 const knownAssociates = {
-    associate1: 'Sir, Eye-Spy',
-    associate2: 'Finders Keepers',
-    associate3: 'Lost and Found'
+    Associate_1: 'Sir, Eye-Spy',
+    Associate_2: 'Finders Keepers',
+    Associate_3: 'Lost and Found'
 
 }
 
