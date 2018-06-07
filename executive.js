@@ -1,11 +1,11 @@
 const exectutiveSummary = []
 
 const h3ES = {
-    titleES: "Executive Summary"
+    h3: "Executive Summary"
 }
 
 const pictureOfWaldo = {
-    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9VBCDTHRdECMdZ8A-tUQD-6_dFozIyh6HOowF1Fq_fAYDQAHB'
+    img: 'http://i0.kym-cdn.com/photos/images/original/000/628/003/8b4.jpg'
 
 }
 
@@ -25,12 +25,12 @@ const listOfAlias = {
 }
 
 const knownAssociates = {
-    ass1: 'Sir, Eye-Spy',
-    ass2: 'Finders Keepers',
-    ass3: 'Lost and Found'
+    associate1: 'Sir, Eye-Spy',
+    associate2: 'Finders Keepers',
+    associate3: 'Lost and Found'
 
 }
 
 exectutiveSummary.push(h3ES, pictureOfWaldo, nameofPerp,countryOrigin, listOfAlias, knownAssociates)
 
-intelReport.push(exectutiveSummary)
+intelReport.exectutiveSummaryKey = exectutiveSummary

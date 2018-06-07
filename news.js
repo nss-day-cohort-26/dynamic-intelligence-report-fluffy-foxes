@@ -40,8 +40,8 @@ const event3 = {
 }
 
 
-recentNews.push(newsImg, event1, event2, event3, event4, event5)
-intelReport.push(recentNews)
+recentNews.push(H3News, newsImg, event1, event2, event3, event4, event5)
+intelReport.recentNewsKey = recentNews
 
 
 
