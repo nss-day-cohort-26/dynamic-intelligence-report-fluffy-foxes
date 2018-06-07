@@ -32,32 +32,13 @@ const event3 = {
     date: "August 25, 2017",
     location: "Nashville TN.",
     typeOfEvents: " A new sighting!",
-    victims: "Fred Bergins",
-    witnesses: "Billy Bardy",
+    victims: "Steve Flemming",
+    witnesses: "Stevie Nicks",
     agency: "TBI",
     rating: "100%"
 
 }
-const event4 = {
-    date: "May 11, 2016",
-    location: "Nashville TN.",
-    typeOfEvents: " A new sighting!",
-    victims: "Fred Bergins",
-    witnesses: "Billy Bardy",
-    agency: "TBI",
-    rating: "100%"
 
-}
-const event5 = {
-    date: "June 11, 2014",
-    location: "Nashville TN.",
-    typeOfEvents: " A new sighting!",
-    victims: "Fred Bergins",
-    witnesses: "Billy Bardy",
-    agency: "TBI",
-    rating: "100%"
-
-}
 
 recentNews.push(H3News, newsImg, event1, event2, event3, event4, event5)
 intelReport.recentNewsKey = recentNews
