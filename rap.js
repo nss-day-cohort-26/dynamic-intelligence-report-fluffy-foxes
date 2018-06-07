@@ -4,7 +4,7 @@ const h3Rap = {
     h3: "Rap Sheet"
 }
 const imgRap = {
-    waldo: "http://static-0.gogamz.com/games/java/1/72/game-2/1-wheres-wally-now.webp"
+    img: "http://static-0.gogamz.com/games/java/1/72/game-2/1-wheres-wally-now.webp"
 }
 const ulRap = {
     crimes: "Loitering",
